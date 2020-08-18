@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo">Examen</string>
+    <string name="subtitulo">Por omar lorenzine</string>
+    <string name="name">Por omar lorenzine</string>
+    <string name="status">status</string>
+</resources>
