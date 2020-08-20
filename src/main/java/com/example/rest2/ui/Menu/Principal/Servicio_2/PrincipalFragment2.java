@@ -32,6 +32,7 @@ public class PrincipalFragment2 extends Fragment {
     List<ModelService2> modelData;
     SpaceNavigationView spaceNavigationView;
     SwipeStack swipeStack;
+    //ejemplo
     AppCompatTextView estado;
     public PrincipalFragment2() {
 
